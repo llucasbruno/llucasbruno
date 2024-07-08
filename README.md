@@ -2,7 +2,7 @@
 
 
 - 🎴 I´m working on some javascript projects.
-- ⚛️ I’m currently learning JavaScript / React Js.
+- ⚛️ I’m currently learning more about JavaScript/React Js.
 
 <div align="center">
   <a href="https://github.com/llucasbruno">
